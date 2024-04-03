@@ -15,9 +15,10 @@
 }
 
 /* Additional styles to ensure buttons and other elements are also styled appropriately */
-.Mui-button-OFS-containedPrimary, .Mui-button-OFS-containedSecondary,
-.Mui-button-OFS-outlinedPrimary, .Mui-button-OFS-outlinedSecondary,
+.Mui-button-OFS-containedPrimary, .Mui-button-OFS-containedSecondary, .Mui-button-OFS-outlinedSecondary,
 .Mui-button-OFS-textPrimary, .Mui-button-OFS-textSecondary, .Mui-button-OFS-outlinedGray {
     background-color: #000; /* Sets button backgrounds to black */
     color: #fff; /* Sets button text to white for contrast */
 }
+.Mui-button-OFS-outlinedPrimary {
+    color: #000000;}
