@@ -1,0 +1,23 @@
+.MuiTypography-root, .Mui-button-OFS-button, .Mui-modalLayout-OFS-dialogContainer,
+.Mui-contentTypesList-OFS-card, .Mui-categoryCard-OFS-contentPreview, .Mui-videoDetail-OFS-title,
+.Mui-filter-OFS-select, .Mui-packageCard-OFS-card, .Mui-packageCard-OFS-title,
+.Mui-cardsList-OFS-title, .Mui-packageDetails-OFS-standAlonePackageDetails,
+.Mui-packageDetailModal-OFS-titleContainer, .Mui-classesWidget-OFS-h4,
+.Mui-classesWidget-OFS-classList2 h4, .Mui-classesWidget-OFS-classList2 h3,
+.Mui-classesWidget-OFS-classList2 button, .Mui-sessionTypesList-OFS-card,
+.Mui-sessionTypesList-OFS-cardTitle, .Mui-sessionsList-OFS-card,
+.Mui-sessionsList-OFS-currentDateSection, .Mui-sessionsList-OFS-containerHeader,
+.Mui-menuDashboard-OFS-menu, .Mui-profileCard-OFS-container, .Mui-statsDashboard-OFS-container,
+.Mui-profileCard-OFS-userEmail, .Mui-profileCard-OFS-userName, .Mui-formGiftCard-OFS-formSectionItem,
+.Mui-formGiftCard-OFS-giftCard, .Mui-formGiftCard-OFS-previewContainer, .Mui-formGiftCard-OFS-previewPrice {
+    color: #000; /* Sets text color to black */
+    border-color: #000; /* Sets border color to black */
+}
+
+/* Additional styles to ensure buttons and other elements are also styled appropriately */
+.Mui-button-OFS-containedPrimary, .Mui-button-OFS-containedSecondary,
+.Mui-button-OFS-outlinedPrimary, .Mui-button-OFS-outlinedSecondary,
+.Mui-button-OFS-textPrimary, .Mui-button-OFS-textSecondary, .Mui-button-OFS-outlinedGray {
+    background-color: #000; /* Sets button backgrounds to black */
+    color: #fff; /* Sets button text to white for contrast */
+}
